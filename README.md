@@ -14,6 +14,8 @@ je pense qu'il est temps de revenir à une véritable productivité en utilisant
 
 le mode CLI n'est pas mort !  
 
+Daniel, le  16/05/2022.  
+
 <!---
 dnl-85/dnl-85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
