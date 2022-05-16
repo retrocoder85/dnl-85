@@ -5,7 +5,7 @@
 - 📫 pour me joindre : meyer.daniel67@protonmail.com  ou via Telegram : https://t.me/dnl_85
 
 ... et pour le reste, je suis un addict à Linux depuis 1998, et j'apprécie le coté no-bullshit et sans OGM des Raspberry (proprio d'un Raspberry4+ et Raspberry Zero)  
-concernant les frameworks que j'apprécie sous Python3 : bottle et flask .
+concernant les frameworks que j'apprécie sous Python3 : bottle et flask .  
 et pour ceux qui se demande pourquoi QuickBasic64 : c'est simplement que ce vieux langage de programmation remanié à la sauce d'aujourd'hui permet de faire des petites applications rapides et sans dépendances fonctionnant sur la majorité des Windobes actuels !
 
 <!---
