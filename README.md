@@ -1,5 +1,5 @@
 - 👋 Salut à tous, je suis @dnl-85 !
-- 👀 interessé par la programmation sous Python3 et Basic, auteur d'un livre qui recueille les syntaxes et façon de faire les plus courantes concernant Python3 (disponible sur mon profil d'ailleurs)
+- 👀 interessé par la programmation sous Python3 et Basic, auteur d'un livre portant sur les syntaxes et façon de faire les plus courantes concernant Python3 (disponible sur mon profil d'ailleurs)
 - 🌱 en approfondissement avec Python3 et QuickBasic64
 - 💞️ recherche collaborations pour développer des projets sous Python3 et QuickBasic64
 - 📫 pour me joindre : meyer.daniel67@protonmail.com  ou via Telegram : https://t.me/dnl_85
