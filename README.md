@@ -10,6 +10,8 @@ pour ceux qui se demande pourquoi QuickBasic64 : c'est simplement que ce vieux l
 
 ... pas de prises de têtes, pas d'installations et pas de chichi ... j'ai une très grande aversion pour les messages d'erreurs chronophages et les écrans qui freeze pour rien (oui, les utilisateurs de windobes se reconnaitront :D), les logiciels monstrueusement gros qui ne sont exploités qu'à 2% de leurs capacités, qui coûtent un bras en licenses, et qui utilisent des effets graphiques hyper-bling-bling qui bouffent énormement de RAM juste pour cacher des failles grosses comme mon c...  
 
+je pense qu'il est temps de revenir à une véritable productivité en utilisant un PC ! et par la même occase, de réduire le temps que l'on passe devant les écrans.  
+
 le mode CLI n'est pas mort !  
 
 <!---
