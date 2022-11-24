@@ -18,8 +18,7 @@ pour ceux qui se demande pourquoi C : simplement car ce langage est toujours d'a
 
 make CLI great again.  
 
-Daniel,  
-stoicien & minimaliste.  
+Daniel,    
 le 16/05/2022.  
 
 <!---
