@@ -1,7 +1,7 @@
 - 👋 Salut à tous, je suis @dnl-85 !
-- 👀 interessé par la programmation sous Python3, Basic et C, auteur d'un livre portant sur les syntaxes et façon de faire les plus courantes concernant Python3 (disponible sur mon profil d'ailleurs)
+- 👀 interessé par la programmation sous Python3, Basic et C, auteur d'un livre portant sur les syntaxes et façon de faire les plus courantes concernant Python3 (disponible sur github d'ailleurs - the-retrocoder)
 - 🌱 en approfondissement avec Python3 & C
-- 💞️ recherche collaborations pour développer des projets sous Python3, QuickBasic64 & C
+- 💞️ recherche collaborations pour développer des projets sous Python3, QuickBasic64 & C + Arduino
 - 📫 pour me joindre : meyer.daniel67@protonmail.com  ou via Telegram : https://t.me/dnl_85
 
 ... pour le reste, je suis un addict à Linux depuis 1998, et j'apprécie le coté no-bullshit et sans OGM des Raspberry (proprio d'un Raspberry4+ et Raspberry Zero)  
@@ -12,14 +12,14 @@ pour ceux qui se demande pourquoi QuickBasic64 : c'est simplement que ce vieux l
 
 pour ceux qui se demande pourquoi C : simplement car ce langage est toujours d'actualité aujourd'hui ! et comme pour QuickBasic, il est parfait pour faire des petites applications rapides pour Linux, Win32 et Win64 ! (d'ailleurs, voir mon dépôt [C-for-all](https://github.com/dnl-85/C_for_all) et son script en python pour générer rapidement un exécutable pour Linux et Win64/Win32)  
 
-à ceux qui ont besoin d'un rappel du [zen selon Python3 & C](https://dnl-85.github.io/) ...  
+à ceux qui ont besoin d'un rappel du zen selon Python3 & C, je suis l'auteur de la page [the-retrocoder](https://the-retrocoder.github.io/) ...  
 
 ... pas de prises de têtes, pas d'installations et pas de chichi ...  
 
 make CLI great again.  
 
 Daniel,    
-le 16/05/2022.  
+le 17/06/2023.  
 
 <!---
 dnl-85/dnl-85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
